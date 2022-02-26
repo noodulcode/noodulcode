@@ -1,7 +1,13 @@
-## noodulcode 
+## noodulcode  🤖
 
-I'm Chris Hannam, a Diploma of IT student at coderacademy working to be a full stack developer by the end of 2022.
+I'm Chris Hannam, a Diploma of IT student at coderacademy working to be a full stack developer by the end of 2022 🎊
 
+Here's an ordered list: 
+1. First item
+2. 2nd Item
+3. 3hird 
+
+~~My profile is complete~~
 
 
 <!--
