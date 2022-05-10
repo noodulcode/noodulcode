@@ -1,11 +1,8 @@
 ## noodulcode  🤖
 
-Chris Hannam, a Diploma of IT student at Coderacademy working towards being a junior full stack developer by the end of 2022 🎊
+Chris Hannam, a self learning future game dev 🎊
 
-Here's an ordered list: 
-1. First item
-2. 2nd Item
-3. 3hird 
+Currently learning Unity
 
 ~~My profile is complete~~
 
