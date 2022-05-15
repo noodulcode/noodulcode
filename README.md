@@ -2,7 +2,7 @@
 
 Chris Hannam, a self learning future game dev 🎊
 
-Currently learning Unity
+Currently learning C# and Unity
 
 ~~My profile is complete~~
 
